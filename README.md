@@ -79,3 +79,4 @@ Software Developer | React Enthusiast
 
 This project is for **learning purposes only** and not intended for commercial use.
 All rights to images, logos, and trademarks belong to **Netflix**.
+
